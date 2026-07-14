@@ -1,1 +1,0 @@
-# Thyroid-ultrasound-benchmark
