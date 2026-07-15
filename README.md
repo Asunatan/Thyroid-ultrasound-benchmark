@@ -2,6 +2,9 @@
 
 A comprehensive benchmark suite for thyroid ultrasound image analysis using large vision-language models. This project provides tools for model training, inference, and evaluation with detailed evaluation metrics.
 
+## 🔄 Updates
+- **2026-07-14**: Code released.
+- **2026-07-03**: Model weights released at https://modelscope.cn/models/AsunaTan/ThyrMind-9B
 ## Table of Contents
 
 - [Installation](#installation)
